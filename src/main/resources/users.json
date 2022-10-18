@@ -1,0 +1,30 @@
+[
+    {
+      "password": "1234",
+      "role": 3,
+      "cardSaved": false,
+      "purchases": [],
+      "name": "leonard"
+    },
+    {
+      "password": "1234",
+      "role": 2,
+      "cardSaved": false,
+      "purchases": [],
+      "name": "Jian"
+    },
+    {
+      "password": "1234",
+      "role": 1,
+      "cardSaved": false,
+      "purchases": [],
+      "name": "Amber"
+    },
+    {
+      "password": "test",
+      "role": 0,
+      "cardSaved": false,
+      "purchases": [],
+      "name": "anon"
+    }
+  ]

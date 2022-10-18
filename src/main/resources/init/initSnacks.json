@@ -1,0 +1,130 @@
+[
+    {
+        "ID": 0,
+        "Category": "Drinks",
+        "Name": "Mineral Water",
+        "Price": 3.7,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 1,
+        "Category": "Drinks",
+        "Name": "Sprite",
+        "Price": 2.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 2,
+        "Category": "Drinks",
+        "Name": "Coco cola",
+        "Price": 3.0,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 3,
+        "Category": "Drinks",
+        "Name": "Pepsi",
+        "Price": 2.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 4,
+        "Category": "Drinks",
+        "Name": "Juice",
+        "Price": 1.8,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 5,
+        "Category": "Chocolates",
+        "Name": "Mars",
+        "Price": 3.0,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 6,
+        "Category": "Chocolates",
+        "Name": "M&M",
+        "Price": 3.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 7,
+        "Category": "Chocolates",
+        "Name": "Bounty",
+        "Price": 3.0,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 8,
+        "Category": "Chocolates",
+        "Name": "Snickers",
+        "Price": 3.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 9,
+        "Category": "Chips",
+        "Name": "Smiths",
+        "Price": 2.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 10,
+        "Category": "Chips",
+        "Name": "Pringles",
+        "Price": 4.0,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 11,
+        "Category": "Chips",
+        "Name": "Kettle",
+        "Price": 3.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 12,
+        "Category": "Chips",
+        "Name": "Thins",
+        "Price": 2.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 13,
+        "Category": "Candies",
+        "Name": "Mentos",
+        "Price": 3.0,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 14,
+        "Category": "Candies",
+        "Name": "Sour Patch",
+        "Price": 3.5,
+        "Quantity": 7,
+        "Sold": 0
+    },
+    {
+        "ID": 15,
+        "Category": "Candies",
+        "Name": "Skittles",
+        "Price": 4.0,
+        "Quantity": 7,
+        "Sold": 0
+    }
+]

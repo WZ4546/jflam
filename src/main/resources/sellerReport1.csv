@@ -1,0 +1,17 @@
+ID,Category,Name,Price,Quantity,Sold
+0,Drink,Mineral Water,3.7,7,0
+1,Drink,Sprite,2.5,7,0
+2,Drink,Coco cola,3.0,7,0
+3,Drink,Pepsi,2.5,7,0
+4,Drink,Juice,1.8,7,0
+5,Chocolate,Mars,3.0,7,0
+6,Chocolate,M&M,3.5,7,0
+7,Chocolate,Bounty,3.0,7,0
+8,Chocolate,Snickers,3.5,7,0
+9,Chips,Smiths,2.5,7,0
+10,Chips,Pringles,4.0,7,0
+11,Chips,Kettle,3.5,7,0
+12,Chips,Thins,2.5,7,0
+13,Candy,Mentos,3.0,7,0
+14,Candy,Sour Patch,3.5,7,0
+15,Candy,Skittles,4.0,7,0
