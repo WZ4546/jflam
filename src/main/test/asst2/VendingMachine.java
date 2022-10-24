@@ -25,6 +25,14 @@ public class VendingMachineTest {
         vm.updateSnacks();
         assertEquals(size + vm.getSnacks().size(), vm.getSnacksJSON().size());
     }
+    
+    @Test
+    public void testaddcurrency() {
+        vm.addCurrency(20.0);
+        vm.decreaseCurrency(20.0);
+        vm.snackReport();
+        assertTrue(true);
+    }
 
     @Test
     public void testIsValidCash(){
