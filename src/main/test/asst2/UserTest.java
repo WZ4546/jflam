@@ -45,4 +45,23 @@ public class UserTest {
         user1.addPurchase("first");
         assertEquals(user1.getPurchases().size(), 4);
     }
+    
+    User ab = new User("Amber", null, null);
+
+    @Test
+    public void testgetrole() {
+        boolean thrown = false;
+        ab.saveCard();
+        ab.addPurchase("Smiths");
+        ab.addPurchase("Smiths");
+        ab.addPurchase("Smiths");
+        ab.addPurchase("Smiths");
+        ab.addPurchase("Smiths");
+        ab.addPurchase("Smiths");
+        ab.latestPurchases();
+        if (ab.getRole() == null) {
+            thrown = true;
+        }
+        assertTrue(thrown);
+    }
 }
